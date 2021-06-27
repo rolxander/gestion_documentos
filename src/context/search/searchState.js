@@ -16,7 +16,7 @@ const SearchState = (props) =>{
         })
     }
     const getResults = async(text) =>{
-        const res = await a
+        const res = await 
     }
     
     return(
